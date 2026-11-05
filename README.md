@@ -85,17 +85,15 @@ Exploring a system to convert classroom board content into digital notes.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DakshKothari-007&show_icons=true&hide_border=true&bg_color=0D0A14&title_color=B78AFF&icon_color=9B5CFF&text_color=E6DDF5" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DakshKothari-007&show_icons=true&hide_border=true&bg_color=0D0A14&title_color=B78AFF&icon_color=9B5CFF&text_color=E6DDF5&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKothari-007&layout=compact&hide_border=true&bg_color=0D0A14&title_color=B78AFF&text_color=E6DDF5" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKothari-007&layout=compact&hide_border=true&bg_color=0D0A14&title_color=B78AFF&text_color=E6DDF5" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DakshKothari-007&hide_border=true&background=0D0A14&ring=9B5CFF&fire=B78AFF&currStreakLabel=B78AFF" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DakshKothari-007&hide_border=true&background=0D0A14&ring=B78AFF&fire=9B5CFF&currStreakLabel=B78AFF&sideLabels=E6DDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A99BBF&stroke=9B5CFF" alt="GitHub Contribution Streak"/>
 
 </div>
-
----
 
 ## 🌙 Currently Learning
 
