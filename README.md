@@ -1,11 +1,13 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10051C,50:51218C,100:B58AFF&height=190&section=header&text=Daksh%20Kothari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=60&descSize=15" width="100%" />
+# Daksh Kothari
 
-### Building ideas into intelligent solutions.
+### Software Development · Artificial Intelligence · Computer Vision
 
-[![GitHub](https://img.shields.io/badge/GitHub-DakshKothari--007-181717?style=flat-square&logo=github)](https://github.com/DakshKothari-007)
-[![Profile Views](https://komarev.com/ghpvc/?username=DakshKothari-007&style=flat-square&color=9B72CF&label=Profile+Views)](https://github.com/DakshKothari-007)
+*Dream • Learn • Build*
+
+[![GitHub](https://img.shields.io/badge/GitHub-DakshKothari--007-181717?style=for-the-badge&logo=github)](https://github.com/DakshKothari-007)
+[![Profile Views](https://komarev.com/ghpvc/?username=DakshKothari-007&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS)](https://github.com/DakshKothari-007)
 
 </div>
 
@@ -13,15 +15,15 @@
 
 ## 👋 About Me
 
-Hi, I'm **Daksh Kothari**!
+Hi, I'm **Daksh Kothari!**
 
-An aspiring software developer interested in building intelligent applications and solving real-world problems through technology.
+An aspiring software developer passionate about building intelligent applications and solving real-world problems through technology.
 
-- 💻 Exploring Software and Android Development.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 👁️ Exploring Computer Vision and Object Detection.
-- 🚀 Building practical applications and innovative projects.
-- 🌱 Always learning, experimenting and improving.
+- 🛒 Building **StockSense**, an AI-powered supermarket management application.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 👁️ Interested in Computer Vision and Object Detection.
+- 💻 Developing applications using Python, Android, PHP and MySQL.
+- 🚀 Learning, experimenting and turning ideas into working projects.
 
 ---
 
@@ -31,22 +33,22 @@ An aspiring software developer interested in building intelligent applications a
 
 **Programming & Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **AI & Computer Vision**
 
-![YOLO](https://img.shields.io/badge/YOLO11-8B5CF6?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-9333EA?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square)
+![YOLO11](https://img.shields.io/badge/YOLO11-8B5CF6?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-9333EA?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=for-the-badge)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -54,58 +56,68 @@ An aspiring software developer interested in building intelligent applications a
 
 ## 🚀 Featured Projects
 
-### 🛒 01. StockSense
+### 🛒 StockSense
 **AI-Powered Supermarket Management System**
 
-A smart supermarket management application designed to help supermarket owners manage store operations, understand business performance and make smarter decisions.
+> Making supermarket management smarter through technology.
+
+StockSense is an application designed to help supermarket owners manage store operations, understand sales performance and make smarter business decisions.
 
 **Key Features**
-- 📊 Sales Analytics and Business Insights
-- 📦 Inventory and Stock Management
-- 👁️ AI-Based Product Recognition
-- 🧠 Intelligent AI Recommendations
-- ⚠️ Low-Stock Monitoring
-- 🏪 Supermarket Management
 
-**Technology:** Android · PHP · MySQL · AI
+- 📊 Sales Analytics – Understand sales performance and revenue trends.
+- 📦 Inventory Management – Manage products and stock levels.
+- 👁️ AI Product Recognition – Recognize products using AI.
+- 🧠 AI Recommendations – Generate intelligent business recommendations.
+- ⚠️ Low-Stock Monitoring – Identify products that need restocking.
+
+**Technology Stack**
+
+`Android` `PHP` `MySQL` `Artificial Intelligence`
 
 ---
 
-### 🪖 02. Real-Time Smart Traffic Violation Detection
+### 🪖 Real-Time Smart Traffic Violation Detection
 
 **AI-Based Helmet Violation Detection**
 
-A computer vision project focused on identifying motorcycle helmet violations using deep learning and object detection.
+A computer vision project focused on detecting motorcycle helmet violations using deep learning and object detection.
 
 **Key Features**
-- 🧠 YOLO11s Object Detection
-- 🪖 Motorcycle Helmet Detection
-- 🎥 Image and Video Analysis
-- ⚡ Real-Time Detection Exploration
 
-**Technology:** Python · YOLO11s · Deep Learning · Computer Vision
+- YOLO11s-based object detection.
+- Motorcycle helmet detection.
+- Image and video analysis.
+- Real-time detection development.
+
+**Technology Stack**
+
+`Python` `YOLO11s` `Deep Learning` `Computer Vision`
 
 ---
 
-### 📝 03. AI Classroom Board to Digital Notes
+### 📝 AI Classroom Board to Digital Notes
 
 **Intelligent Classroom Content Conversion**
 
-An AI-based project concept exploring the conversion of classroom board content into digital notes.
+Exploring an AI-based approach to convert classroom board content into digital notes.
 
 **Key Areas**
-- 🖼️ Board Image Processing
-- ✍️ Handwriting Recognition
-- 🔤 OCR and Text Extraction
-- 📚 Digital Note Generation
 
-**Technology:** Python · AI · OCR · Image Processing
+- Board image processing.
+- Handwriting recognition.
+- OCR and text extraction.
+- Digital note generation.
+
+**Technology Stack**
+
+`Python` `AI` `OCR` `Image Processing`
 
 ---
 
 <div align="center">
 
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DakshKothari-007?tab=repositories)
+[![Explore Projects](https://img.shields.io/badge/Explore_My_Repositories-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DakshKothari-007?tab=repositories)
 
 </div>
 
@@ -115,13 +127,13 @@ An AI-based project concept exploring the conversion of classroom board content 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DakshKothari-007&show_icons=true&hide_border=true&bg_color=0D0A14&title_color=B78AFF&icon_color=9B5CFF&text_color=E6DDF5" alt="GitHub Statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DakshKothari-007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8957E5&text_color=E6EDF3&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKothari-007&layout=compact&hide_border=true&bg_color=0D0A14&title_color=B78AFF&text_color=E6DDF5" alt="Most Used Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshKothari-007&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Most Used Languages"/>
 
-<br/><br/>
+<br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DakshKothari-007&hide_border=true&background=0D0A14&ring=B78AFF&fire=9B5CFF&currStreakLabel=B78AFF&sideLabels=E6DDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A99BBF" alt="GitHub Contribution Streak"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DakshKothari-007&hide_border=true&background=0D1117&ring=A78BFA&fire=8957E5&currStreakLabel=A78BFA&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -129,24 +141,30 @@ An AI-based project concept exploring the conversion of classroom board content 
 
 ## 🌱 Currently Exploring
 
-- Artificial Intelligence and Machine Learning
-- Computer Vision and Object Detection
-- Android Application Development
-- AI-Powered Business Applications
-- Intelligent Recommendation Systems
+- Artificial Intelligence and Machine Learning.
+- Computer Vision and Object Detection.
+- Android Application Development.
+- AI-powered business applications.
+- Intelligent Recommendation Systems.
+
+---
+
+## 🌌 Beyond the Code
+
+I believe great ideas become meaningful when we build them into something useful.
+
+I'm continuously learning, experimenting and working towards creating technology that makes everyday tasks smarter and easier.
 
 ---
 
 <div align="center">
 
-### 🌙 Keep Learning. Keep Building.
+### 💜 Thanks for visiting my profile!
 
-*Turning curiosity into creativity, and ideas into reality.*
+**Keep Learning. Keep Building.**
 
-**Thanks for visiting my profile! 👀**
+[GitHub](https://github.com/DakshKothari-007) · [Repositories](https://github.com/DakshKothari-007?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/Let's_Connect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DakshKothari-007)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B58AFF,50:51218C,100:10051C&height=100&section=footer" width="100%" />
+*Dream • Learn • Build*
 
 </div>
